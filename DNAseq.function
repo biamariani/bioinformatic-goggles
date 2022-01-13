@@ -1,4 +1,4 @@
-# Complementary DNA Sequence #
+# Complementary DNA Sequence 
 
 
 DNAseq <- function(x){
